@@ -1,0 +1,20 @@
+
+This project provides an introduction to OCaml programming and some
+warm-up exercises involving tree manipulation and recursive
+programming (both of which will be highly useful when building the
+compiler). It will also familiarize you with the basic workflow of the
+projects in this course, including the testing framework that we will
+use to (partially) automate the grading of your projects.
+
+(1) Assignment submission
+
+Most of the instructions for this project are found as comments in the
+source files. For this project, you should primarily fill the
+hellocaml.ml and submit your directory as .zip directory.
+
+(2) Grading
+ 
+You will get no credit if your submitted program does not compile.
+Apart from the test already given, we will run some hidden tests. Your
+points will be 65% for passing the given tests (with correctly written
+code) and 35% for the hidden tests.

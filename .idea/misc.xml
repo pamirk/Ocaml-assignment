@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Black">
+    <option name="sdkName" value="Python 3.9 (Little Lemon)" />
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="71f62f0a-ad79-451f-aca4-7b8c710c113e" />
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.9 (Little Lemon)" project-jdk-type="Python SDK" />
+</project>
