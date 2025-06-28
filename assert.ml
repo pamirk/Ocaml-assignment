@@ -88,7 +88,7 @@ let get_results (t:result test) =
       let total = List.length cases in
       if total > 0 then
           let points_earned = ((float_of_int passed) /. (float_of_int total)) *. (float_of_int pts) in
-          let name_pts = Printf.sprintf "%s (%1.f/%d points)" name points_earned pts in
+          let name_pts = Printf.sprintf "%s (%.1f/%d points)" name points_earned pts in
           (name_pts, passed, failed, total, points_earned, pts, 0)
         else
           let name_pts = Printf.sprintf "%s (??/%d points)" name pts in
